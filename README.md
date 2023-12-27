@@ -14,5 +14,7 @@ I am taking this to help me get better at git and github
 4. **git commit -m *Don't forget to add commit message in quotes; also, second -m is used for description and first -m for title***: This is used to commit
 
 ## Local Development
-
 1. Open index.html in your browser
+
+## Cheat Sheet
+Here's a link to a helpful git cheat sheet [here](https://ndpsoftware.com/git-cheatsheet.html#loc=stash;)
